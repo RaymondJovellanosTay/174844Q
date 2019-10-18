@@ -58,7 +58,7 @@ selection==0.0.13
 singledispatch==3.4.0.3
 six==1.11.0
 SQLAlchemy==1.1.15
-urllib3==1.22
+urllib3==1.24.2
 user-agent==0.1.9
 virtualenv==15.1.0
 visitor==0.1.3
