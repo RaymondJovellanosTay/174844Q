@@ -53,7 +53,7 @@ python-google-places==1.4.1
 pytils==0.3
 requests==2.11.1
 requests-toolbelt==0.7.0
-rsa==3.4.2
+rsa==4.1
 selection==0.0.13
 singledispatch==3.4.0.3
 six==1.11.0
